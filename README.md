@@ -16,8 +16,8 @@ ATCK Recipes Place is a recipe sharing site where you can find the latest recipe
 | GET           | /recipes/new                | form page for creating a new recipe              |
 | GET           | /recipes/:id                | Details about a particular recipe                |
 | PUT           | /recipes/:id                | Update a particular recipe                       |
-| GET           | /places/:id/edit            | Form page for editing an existing recipe place   |
-| DELETE        | /places/:id                 | Delete a particular recipe                       |
+| GET           | /recipes/:id/edit           | Form page for editing an existing recipe place   |
+| DELETE        | /recipes/:id                | Delete a particular recipe                       |
 | GET           | *                           | 404 page (matches any route not defined above)   |
 
 
