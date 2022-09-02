@@ -1,6 +1,6 @@
 # **Milestone-2-Project**
 
-# **The ATCK Recipe Place**
+# **The ATCK Recipe Place Website**
 
 ATCK Recipes Place is a recipe sharing site where you can find the latest recipe trends from across the internet and add your own favorite recipes.
 
@@ -22,5 +22,4 @@ ATCK Recipes Place is a recipe sharing site where you can find the latest recipe
 
 
 
-## Website Design Inspiration--ATCK AKA "Attack"
-![This is an image](/https://www.123rf.com/photo_128681348_burger-fighting-with-broccoli-in-boxing-glover-vector-flat-cartoon-character-illustration-icon-desig.html?vti=m41f60p5q4am8oy6xb-1-1)
+## Website Inspiration--ATCK AKA TEAM "Attack"
